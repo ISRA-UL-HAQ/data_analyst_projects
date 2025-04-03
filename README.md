@@ -40,7 +40,7 @@ Edit
 bash
 Copy
 Edit
-git clone https://github.com/your-username/Sales-Dashboard.git
+git clone https:https://github.com/ISRA-UL-HAQ/data_analyst_projects
 2️⃣ Open the .pbix file in Power BI Desktop
 3️⃣ Update the dataset (if required)
 4️⃣ Customize visuals and explore insights
@@ -50,7 +50,7 @@ Want to improve this dashboard? Fork the repo and submit a pull request! 🚀
 
 📧 Contact
 For questions, reach out via:
-📩 Email: your.email@example.com
+📩 Email: shaikisraulhaqs@gmail.com
 🔗 LinkedIn
 
 
